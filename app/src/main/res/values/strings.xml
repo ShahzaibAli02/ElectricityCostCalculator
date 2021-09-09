@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Electricity Cost Calculator</string>
+
+
+
+    <string name="Admob_AppId">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="Admob_Banner">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="Admob_Interstatial">ca-app-pub-3940256099942544/1033173712</string>
+
+</resources>
